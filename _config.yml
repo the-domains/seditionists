@@ -1,14 +1,28 @@
-layout_spectrum: 0.7740303
-color:
-  saturation: 0.7782462
-  brandStrength: 1
-  lightness: 0.2175379
-  brandColors:
-    - '#020228'
-    - '#273667'
-    - '#7D7C90'
-    - '#436092'
-    - '#F6E7E6'
-  rhythmicContrast: 0.7774031
-typography_spectrum: 1
 name: Seditionists
+favicon: null
+layout_spectrum: 0.7740303
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010400'
+    - '#ffffff'
+    - '#cc3202'
+    - '#f3b893'
+    - '#524c44'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
