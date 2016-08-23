@@ -1,14 +1,10 @@
 ---
-author:
-  - name: The Seditionists
-    url: 'https://www.youtube.com/user/DrRFurman'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-23T16:23:58.280Z'
+sourcePath: _posts/2016-08-17-revolution-teacher-vs-student-centered-practices.md
+inFeed: true
+isBasedOnUrl: 'https://www.youtube.com/watch?v=oSxTN8xPP3o'
+authors: []
+hasPage: false
 keywords:
   - duration
   - views
@@ -20,13 +16,14 @@ keywords:
   - teacher
   - teacher-centered
   - education
-description: >-
-  (R)Evolution]: Teacher Vs Student Centered Practices. Listen in as Keith and
-  Rob discuss this ever present issue in education. Feel free to leave us your
-  opinion in the comments below. -~-~~-~~~-~~-~- Please watch: "Pokemon Go!
-  Should it be banned from Schools!" https://www.youtube.com/watch?v=ZyCOdIf1470
-  -~-~~-~~~-~~-~-
-inLanguage: en
+related: []
+author:
+  - name: The Seditionists
+    url: 'https://www.youtube.com/user/DrRFurman'
+    avatar: {}
+via: {}
+dateModified: '2016-08-23T16:23:57.992Z'
+title: 'Revolution: Teacher Vs Student Centered Practices'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=oSxTN8xPP3o&feature=applinks'
     type: ios
@@ -64,18 +61,22 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=oSxTN8xPP3o'
-title: 'Revolution: Teacher Vs Student Centered Practices'
-datePublished: '2016-08-17T18:25:04.241Z'
-dateModified: '2016-08-17T18:23:57.365Z'
-via: {}
-starred: false
-sourcePath: _posts/2016-08-17-revolution-teacher-vs-student-centered-practices.md
-inFeed: true
-hasPage: false
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: >-
+  (R)Evolution]: Teacher Vs Student Centered Practices. Listen in as Keith and
+  Rob discuss this ever present issue in education. Feel free to leave us your
+  opinion in the comments below. -~-~~-~~~-~~-~- Please watch: "Pokemon Go!
+  Should it be banned from Schools!" https://www.youtube.com/watch?v=ZyCOdIf1470
+  -~-~~-~~~-~~-~-
+inLanguage: en
 inNav: false
-_type: VideoObject
+starred: false
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoSxTN8xPP3o%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoSxTN8xPP3o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoSxTN8xPP3o%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
