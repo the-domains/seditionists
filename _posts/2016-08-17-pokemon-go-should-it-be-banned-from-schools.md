@@ -1,14 +1,7 @@
 ---
-author:
-  - name: The Seditionists
-    url: 'https://www.youtube.com/user/DrRFurman'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-23T16:24:12.426Z'
+sourcePath: _posts/2016-08-17-pokemon-go-should-it-be-banned-from-schools.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ZyCOdIf1470'
 keywords:
   - pokemon
   - ban
@@ -20,11 +13,14 @@ keywords:
   - cheating
   - niantic
   - gps
-description: >-
-  What about this new craze? Pokemon Go has swept our nation. How will this
-  impact our schools? Will it be the next educational tool or the next nuisance
-  to disrupt our children's education?
-inLanguage: en
+related: []
+author:
+  - name: The Seditionists
+    url: 'https://www.youtube.com/user/DrRFurman'
+    avatar: {}
+via: {}
+dateModified: '2016-08-23T16:24:12.174Z'
+title: Pokemon Go! Should it be banned from Schools!
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ZyCOdIf1470&feature=applinks'
     type: ios
@@ -62,18 +58,22 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ZyCOdIf1470'
-title: Pokemon Go! Should it be banned from Schools!
-datePublished: '2016-08-17T18:25:04.230Z'
-dateModified: '2016-08-17T18:23:38.685Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  What about this new craze? Pokemon Go has swept our nation. How will this
+  impact our schools? Will it be the next educational tool or the next nuisance
+  to disrupt our children's education?
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-17-pokemon-go-should-it-be-banned-from-schools.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZyCOdIf1470%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZyCOdIf1470&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZyCOdIf1470%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
